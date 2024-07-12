@@ -1,5 +1,6 @@
 # Elf_Loader 学习
 
+[参考文档](https://github.com/WonderfulCat/WonderfulCat.github.io/blob/master/archive/Android4.1_ELF_Loader.md)
 ```c
 root@android:/data/user # ./hello
 fp - 0xb6f4bc9c  
